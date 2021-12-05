@@ -1,2 +1,2 @@
 # CRA-template
-A little custome Create-React-App template
+A customized template for React instead of Create-React-App
