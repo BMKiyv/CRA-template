@@ -1,24 +1,29 @@
-
-    {
-        "name": "package.json",
-        "version": "1.0.0",
-        "description": "CRA-template",
-        "main": "index.js",
-        "scripts": {
-          "test": "npm test"
-        },
-        "repository": {
-          "type": "git",
-          "url": "git+https://github.com/BMKiyv/CRA-template.git"
-        },
-        "keywords": [
-          "CRA-template"
-        ],
-        "author": "BMKiyv",
-        "license": "ISC",
-        "bugs": {
-          "url": "https://github.com/BMKiyv/CRA-template/issues"
-        },
-        "homepage": "https://github.com/BMKiyv/CRA-template#readme"
-      }
-      
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "CRA-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMKiyv/CRA-template.git"
+  },
+  "keywords": [
+    "CRA-template"
+  ],
+  "author": "BMKiyv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BMKiyv/CRA-template/issues"
+  },
+  "homepage": "https://github.com/BMKiyv/CRA-template#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
